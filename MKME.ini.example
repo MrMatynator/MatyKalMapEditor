@@ -1,0 +1,4 @@
+[MKME]
+AutoloadWorld=false
+ClientDir=C:\"PATH-TO-CLIENT"
+ServerDir=C:\"PATH-TO-SERVER"
