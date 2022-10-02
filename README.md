@@ -10,7 +10,7 @@ PayPal: tjeukeouden@gmail.com
 Copy the tool anywhere,
 Rename MKME.ini.examle to MKME.ini
 
-Edit MKME.ini, set the server and client pathes to the server and client path you would like to use as your edit client.
+Edit MKME.ini, set the server and client path to the server and client path you would like to load.
 
 WARNING: This tool converts GTX textures into DDS inside of the client folder it loads.
 
