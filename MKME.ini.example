@@ -1,4 +1,6 @@
 [MKME]
-AutoloadWorld=false
+AutoloadWorld=true
+AsyncLoading=true
+FileLogging=false
 ClientDir=C:\"PATH-TO-CLIENT"
 ServerDir=C:\"PATH-TO-SERVER"
